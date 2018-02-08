@@ -17,6 +17,6 @@ function myFunction() {
     document.getElementById("demo2").innerHTML = "How are you?";
 }
 </script>
-
+<!-- I have just updated the code -->
 </body>
 </html>
